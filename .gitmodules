@@ -25,3 +25,6 @@
 [submodule "vim-svndiff"]
 	path = vim-svndiff
 	url = git://github.com/vim-scripts/svn-diff.vim.git
+[submodule "bundle/vim-zencoding"]
+	path = bundle/vim-zencoding
+	url = git://github.com/mattn/zencoding-vim.git
