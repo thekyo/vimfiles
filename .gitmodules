@@ -13,3 +13,15 @@
 [submodule "bundle/vim-symfony"]
 	path = bundle/vim-symfony
 	url = git://github.com/soh335/vim-symfony.git
+[submodule "bundle/vim-svndiff"]
+	path = bundle/vim-svndiff
+	url = git://github.com/vim-scripts/svn-diff.vim.git
+[submodule "bundle/vim-enhancedcommentify"]
+	path = bundle/vim-enhancedcommentify
+	url = git://github.com/hrp/EnhancedCommentify.git
+[submodule "bundle/vim-markdown"]
+	path = bundle/vim-markdown
+	url = git://github.com/plasticboy/vim-markdown.git
+[submodule "vim-svndiff"]
+	path = vim-svndiff
+	url = git://github.com/vim-scripts/svn-diff.vim.git
