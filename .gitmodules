@@ -28,3 +28,9 @@
 [submodule "bundle/vim-zencoding"]
 	path = bundle/vim-zencoding
 	url = git://github.com/mattn/zencoding-vim.git
+[submodule "bundle/vim-unite"]
+	path = bundle/vim-unite
+	url = git://github.com/Shougo/unite.vim.git
+[submodule "bundle/vim-multiplesearch"]
+	path = bundle/vim-multiplesearch
+	url = git://github.com/vim-scripts/MultipleSearch.git
