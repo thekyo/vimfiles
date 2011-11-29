@@ -61,3 +61,6 @@
 [submodule "vim-smartchr"]
 	path = vim-smartchr
 	url = git://github.com/kana/vim-smartchr.git
+[submodule "bundle/vim-smartchr"]
+	path = bundle/vim-smartchr
+	url = git://github.com/kana/vim-smartchr.git
