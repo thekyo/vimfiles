@@ -34,3 +34,18 @@
 [submodule "bundle/vim-multiplesearch"]
 	path = bundle/vim-multiplesearch
 	url = git://github.com/vim-scripts/MultipleSearch.git
+[submodule "bundle/vim-vimrepress"]
+	path = bundle/vim-vimrepress
+	url = git://github.com/vim-scripts/VimRepress.git
+[submodule "bundle/vim-evervim"]
+	path = bundle/vim-evervim
+	url = git://github.com/kakkyz81/evervim.git
+[submodule "bundle/vim-simplenote"]
+	path = bundle/vim-simplenote
+	url = git://github.com/mrtazz/simplenote.vim.git
+[submodule "bundle/vim-vimplenote"]
+	path = bundle/vim-vimplenote
+	url = git://github.com/mattn/vimplenote-vim.git
+[submodule "bundle/vim-align"]
+	path = bundle/vim-align
+	url = git://github.com/vim-scripts/Align.vim.git
