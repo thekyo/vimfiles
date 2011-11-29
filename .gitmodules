@@ -49,3 +49,15 @@
 [submodule "bundle/vim-align"]
 	path = bundle/vim-align
 	url = git://github.com/vim-scripts/Align.vim.git
+[submodule "bundle/vim-yanktmp"]
+	path = bundle/vim-yanktmp
+	url = git://github.com/vim-scripts/yanktmp.vim.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git://github.com/vim-scripts/surround.vim.git
+[submodule "bundle/vim-grep"]
+	path = bundle/vim-grep
+	url = git://github.com/vim-scripts/grep.vim.git
+[submodule "vim-smartchr"]
+	path = vim-smartchr
+	url = git://github.com/kana/vim-smartchr.git
