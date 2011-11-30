@@ -1,0 +1,1 @@
+/home/kisakou/.vim/bundle/vim-pathogen/autoload/pathogen.vim
