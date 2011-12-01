@@ -64,3 +64,12 @@
 [submodule "bundle/vim-smartchr"]
 	path = bundle/vim-smartchr
 	url = git://github.com/kana/vim-smartchr.git
+[submodule "bundle/vim-eregex"]
+	path = bundle/vim-eregex
+	url = git://github.com/vim-scripts/eregex.vim.git
+[submodule "bundle/vim-sqlutilities"]
+	path = bundle/vim-sqlutilities
+	url = git://github.com/vim-scripts/SQLUtilities.git
+[submodule "bundle/vim-blogit"]
+	path = bundle/vim-blogit
+	url = git://github.com/vim-scripts/blogit.vim.git
