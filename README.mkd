@@ -1,2 +1,10 @@
 #### Contents
 vim sctipts
+
+#### Howto Use
+usage.
+
+> $ mkdir ~/.vim
+> $ cd ~/.vim
+> $ git clone git@github.com:thekyo/vimfiles.git .
+
