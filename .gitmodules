@@ -73,3 +73,12 @@
 [submodule "bundle/vim-blogit"]
 	path = bundle/vim-blogit
 	url = git://github.com/vim-scripts/blogit.vim.git
+[submodule "vim-vimfiler"]
+	path = vim-vimfiler
+	url = git://github.com/Shougo/vimfiler.git
+[submodule "bundle/vim-vimfiler"]
+	path = bundle/vim-vimfiler
+	url = git://github.com/Shougo/vimfiler.git
+[submodule "bundle/vim-bufferlist"]
+	path = bundle/vim-bufferlist
+	url = git://github.com/vim-scripts/bufferlist.vim.git
