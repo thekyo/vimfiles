@@ -82,3 +82,6 @@
 [submodule "bundle/vim-bufferlist"]
 	path = bundle/vim-bufferlist
 	url = git://github.com/vim-scripts/bufferlist.vim.git
+[submodule "bundle/vim-vimpress"]
+	path = bundle/vim-vimpress
+	url = git://github.com/vim-scripts/VimRepress.git
