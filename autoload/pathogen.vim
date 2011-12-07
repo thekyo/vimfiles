@@ -1,1 +1,1 @@
-/home/kisakou/.vim/bundle/vim-pathogen/autoload/pathogen.vim
+/home/kisakou/.vim/bundle/vim-pathogen.git/autoload/pathogen.vim

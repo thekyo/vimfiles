@@ -10,3 +10,4 @@ usage.
 
 > $ git clone git@github.com:thekyo/vimfiles.git .
 
+> $ git submodule update
