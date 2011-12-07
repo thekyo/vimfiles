@@ -151,3 +151,6 @@
 [submodule "bundle/yanktmp.vim.git"]
 	path = bundle/yanktmp.vim.git
 	url = git://github.com/vim-scripts/yanktmp.vim.git
+[submodule "bundle/Smooth-Scroll.git"]
+	path = bundle/Smooth-Scroll.git
+	url = git://github.com/vim-scripts/Smooth-Scroll.git
