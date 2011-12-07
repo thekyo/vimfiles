@@ -88,3 +88,66 @@
 [submodule "bundle/vim-sudo"]
 	path = bundle/vim-sudo
 	url = git://github.com/vim-scripts/sudo.vim.git
+[submodule "bundle/vim-matarw"]
+	path = bundle/vim-matarw
+	url = git://github.com/kana/vim-metarw.git
+[submodule "bundle/vim-weapi"]
+	path = bundle/vim-weapi
+	url = git://github.com/mattn/webapi-vim.git
+[submodule "bundle/vim-matarw-simplenote"]
+	path = bundle/vim-matarw-simplenote
+	url = git://github.com/mattn/vim-metarw-simplenote.git
+[submodule "bundle/EnhancedCommentify.git"]
+	path = bundle/EnhancedCommentify.git
+	url = git://github.com/hrp/EnhancedCommentify.git
+[submodule "bundle/eregex.vim.git"]
+	path = bundle/eregex.vim.git
+	url = git://github.com/othree/eregex.vim.git
+[submodule "bundle/grap.vim.git"]
+	path = bundle/grap.vim.git
+	url = git://github.com/vim-scripts/grep.vim.git
+[submodule "vim-markdown.git"]
+	path = vim-markdown.git
+	url = git://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/vim-markdown.git"]
+	path = bundle/vim-markdown.git
+	url = git://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/MultipleSearch.git"]
+	path = bundle/MultipleSearch.git
+	url = git://github.com/vim-scripts/MultipleSearch.git
+[submodule "bundle/neocomplcache.git"]
+	path = bundle/neocomplcache.git
+	url = git://github.com/Shougo/neocomplcache.git
+[submodule "bundle/vim-pathogen.git"]
+	path = bundle/vim-pathogen.git
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundle/vim-quickrun.git"]
+	path = bundle/vim-quickrun.git
+	url = git://github.com/thinca/vim-quickrun.git
+[submodule "bundle/vim-ref.git"]
+	path = bundle/vim-ref.git
+	url = git://github.com/thinca/vim-ref.git
+[submodule "bundle/SQLUtilities.git"]
+	path = bundle/SQLUtilities.git
+	url = git://github.com/vim-scripts/SQLUtilities.git
+[submodule "bundle/sudo.git"]
+	path = bundle/sudo.git
+	url = git://github.com/vim-scripts/sudo.vim.git
+[submodule "bundle/sudo.vim.git"]
+	path = bundle/sudo.vim.git
+	url = git://github.com/vim-scripts/sudo.vim.git
+[submodule "bundle/surround.vim.git"]
+	path = bundle/surround.vim.git
+	url = git://github.com/vim-scripts/surround.vim.git
+[submodule "bundle/svn-diff.vim.git"]
+	path = bundle/svn-diff.vim.git
+	url = git://github.com/vim-scripts/svn-diff.vim.git
+[submodule "bundle/vim-symfony.git"]
+	path = bundle/vim-symfony.git
+	url = git://github.com/soh335/vim-symfony.git
+[submodule "bundle/unite.vim.git"]
+	path = bundle/unite.vim.git
+	url = git://github.com/Shougo/unite.vim.git
+[submodule "bundle/yanktmp.vim.git"]
+	path = bundle/yanktmp.vim.git
+	url = git://github.com/vim-scripts/yanktmp.vim.git
