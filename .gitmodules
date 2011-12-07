@@ -154,3 +154,6 @@
 [submodule "bundle/Smooth-Scroll.git"]
 	path = bundle/Smooth-Scroll.git
 	url = git://github.com/vim-scripts/Smooth-Scroll.git
+[submodule "bundle/grep.vim.git"]
+	path = bundle/grep.vim.git
+	url = git://github.com/vim-scripts/grep.vim.git
