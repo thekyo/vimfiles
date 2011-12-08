@@ -16,4 +16,6 @@ usage.
 
 > $ git clone git@github.com:thekyo/vimfiles.git .
 
+> $ git submodule init
+
 > $ git submodule update
