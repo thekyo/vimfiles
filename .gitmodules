@@ -157,3 +157,12 @@
 [submodule "bundle/grep.vim.git"]
 	path = bundle/grep.vim.git
 	url = git://github.com/vim-scripts/grep.vim.git
+[submodule "download/jqapi-lastest/docs"]
+	path = download/jqapi-lastest/docs
+	url = git://github.com/soh335/vim-ref-jquery.git
+[submodule "download/jqapi-lastest"]
+	path = download/jqapi-lastest
+	url = git://github.com/soh335/vim-ref-jquery.git
+[submodule "bundle/ref-sources.vim.git"]
+	path = bundle/ref-sources.vim.git
+	url = git://github.com/mojako/ref-sources.vim.git
