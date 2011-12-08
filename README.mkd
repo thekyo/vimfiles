@@ -2,6 +2,12 @@
 vim sctipts
 
 #### Howto Use
+ssh-keygen
+
+> $ ssk-keygen -t rsa
+
+> $ cat ~/.ssh/id_rsa.pub
+
 usage.
 
 > $ mkdir ~/.vim
@@ -10,4 +16,4 @@ usage.
 
 > $ git clone git@github.com:thekyo/vimfiles.git .
 
-> $ git submodule sync
+> $ git submodule update
