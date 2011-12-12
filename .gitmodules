@@ -166,3 +166,6 @@
 [submodule "bundle/ref-sources.vim.git"]
 	path = bundle/ref-sources.vim.git
 	url = git://github.com/mojako/ref-sources.vim.git
+[submodule "bundle/unite-sf2.gif"]
+	path = bundle/unite-sf2.gif
+	url = git://github.com/heavenshell/unite-sf2.git
