@@ -169,3 +169,6 @@
 [submodule "bundle/unite-sf2.gif"]
 	path = bundle/unite-sf2.gif
 	url = git://github.com/heavenshell/unite-sf2.git
+[submodule "bundle/vim-css-color.git"]
+	path = bundle/vim-css-color.git
+	url = git://github.com/skammer/vim-css-color.git
