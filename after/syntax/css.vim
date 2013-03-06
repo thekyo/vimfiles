@@ -1,0 +1,1 @@
+/home/kisakou/.vim/bundle/vim-css-color.git/after/syntax/css.vim
